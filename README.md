@@ -1,2 +1,2 @@
-# vim-syntax-files
-Syntax files for vim (vi-like editor)
+# mqp-syntax-for-vim
+A syntax file for mpq (Microsoft Power Query) language.
